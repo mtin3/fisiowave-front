@@ -62,7 +62,7 @@
 		"ngu-utility": "1.0.3",
 		"ngx-malihu-scrollbar": "1.2.1",
 		"ngx-uploader": "3.3.11",
-		"node-sass": "4.5.3",
+		"node-sass": "7.0.0",
 		"rxjs": "5.4.3",
 		"sweetalert2": "6.6.10",
 		"ts-helper": "0.0.1",
